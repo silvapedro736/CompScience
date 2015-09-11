@@ -6,7 +6,7 @@ Welcome to Computer Science Class
 
 
 
-**Warning this program is not capable of handling type errors**
+**Warning this program is not capable of handling typing errors**
 
 
 
