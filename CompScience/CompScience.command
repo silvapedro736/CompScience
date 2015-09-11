@@ -34,7 +34,8 @@ read pause
 
 clear
 
-echo path/to/project/folder
+echo Give Path to Folder
+echo (ex. path/to/project/folder)
 read path
 
 cd $path
