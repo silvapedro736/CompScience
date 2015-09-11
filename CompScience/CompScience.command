@@ -1,5 +1,6 @@
 clear
 
+
 echo Wellcome to Computer Science class!
 echo By: Pedro Silva
 echo
@@ -13,6 +14,7 @@ if [ $start == 1 ]
 then
 
 clear
+
 
 echo Username:
 read username
@@ -107,6 +109,7 @@ elif [ $start == 2 ]
 
 then
 
+clear
 
 
 	echo Wellcome to Computer Science class!
